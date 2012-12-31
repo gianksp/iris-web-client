@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable
+END
+draggable_option_containment_array.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable/draggable_option_containment_array.html
+END
+draggable_option_iframeFix_false.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable/draggable_option_iframeFix_false.html
+END
+draggable.scroll.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable/draggable.scroll.html
+END
+draggable_option_cursorAt_object.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable/draggable_option_cursorAt_object.html
+END
+draggable.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable/draggable.html
+END
+draggable_option_iframeFix_true.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable/draggable_option_iframeFix_true.html
+END
+draggable_option_iframeFix_selector.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable/draggable_option_iframeFix_selector.html
+END
+draggable_option_handle_selector.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/tests/visual/draggable/draggable_option_handle_selector.html
+END

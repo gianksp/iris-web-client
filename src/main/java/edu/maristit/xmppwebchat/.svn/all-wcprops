@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/java/edu/maristit/xmppwebchat
+END
+XmppManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/java/edu/maristit/xmppwebchat/XmppManager.java
+END
+MySASLDigestMD5Mechanism.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/trunk/XMPPWebChat/src/main/java/edu/maristit/xmppwebchat/MySASLDigestMD5Mechanism.java
+END
+ChatListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13/trunk/XMPPWebChat/src/main/java/edu/maristit/xmppwebchat/ChatListener.java
+END
+Buddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/XMPPWebChat/src/main/java/edu/maristit/xmppwebchat/Buddy.java
+END

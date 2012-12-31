@@ -1,0 +1,171 @@
+10
+
+dir
+15
+http://xmppwebchat.googlecode.com/svn/trunk/XMPPWebChat/src/main/webapp/jquery-ui-1.8.16/demos
+http://xmppwebchat.googlecode.com/svn
+
+
+
+2012-01-30T21:13:36.791572Z
+13
+ghattamaneni.uday@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63c86f21-119b-697c-3cdd-42c72f14aa38
+
+resizable
+dir
+
+show
+dir
+
+toggle
+dir
+
+slider
+dir
+
+widget
+dir
+
+removeClass
+dir
+
+switchClass
+dir
+
+progressbar
+dir
+
+tabs
+dir
+
+effect
+dir
+
+demos.css
+file
+
+
+
+
+2012-12-31T18:26:49.283302Z
+2e2ec04700af4ac5681a956cfe405c47
+2012-01-30T21:13:36.791572Z
+13
+ghattamaneni.uday@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14338
+
+dialog
+dir
+
+autocomplete
+dir
+
+accordion
+dir
+
+selectable
+dir
+
+position
+dir
+
+images
+dir
+
+toggleClass
+dir
+
+droppable
+dir
+
+draggable
+dir
+
+hide
+dir
+
+index.html
+file
+
+
+
+
+2012-12-31T18:26:49.283302Z
+68cc2555b21e07d67924f61c19015367
+2012-01-30T21:13:36.791572Z
+13
+ghattamaneni.uday@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14152
+
+button
+dir
+
+datepicker
+dir
+
+sortable
+dir
+
+addClass
+dir
+
+animate
+dir
+
